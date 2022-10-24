@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Andy CHen
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about Javscript. The purpose of this blog is to keep track of the process of making my Freedom project .
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making Rpg games. This blog will walk through my process of independently studying javascript game engin like impactJS in order to make a RPG gmae.
 
 ## Links
 
