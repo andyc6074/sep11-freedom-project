@@ -7,7 +7,7 @@ The the solfware me and my parther am going to make with javascript is a RPG gam
 
 Now with the background out of the way.
 
-What I did is 
+What I did for impact is trying to make the game but it diid not work so well as things add up, so today I spend some time trying melon.js . while there is some thing I dont fully understand lock my intrest on learning mellon.js. I try modifying the game/texture like they told me too and it was quite fun but I still need to learn how to make the game from scratch. 
 
 [Next](entry02.md)
 
