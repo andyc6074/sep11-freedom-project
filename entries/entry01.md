@@ -8,7 +8,7 @@ The the solfware me and my parther am going to make with javascript is a RPG gam
 
 Now with the background out of the way.
 
-### Blog 1
+### context
 What I did for impact is trying to make the game but it diid not work so well as things add up, so today I spend some time trying melon.js . I  try modifying the game/texture like they told me too and it was quite fun however it does not work that great as the tool it use seem to look for the file in my computher which is not as it is in the ide. This cause some unessary issue to occur. So I decide to try phaser and it seem to be workking so far. Shince I dont have much time to tiker with phaser that ,uc I don't have a full idea on it however by doing so research so people sugest phaser over melon.js and they say phaser.js is more beginner friendly. 
 
 
