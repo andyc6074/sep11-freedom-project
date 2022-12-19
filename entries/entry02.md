@@ -50,7 +50,7 @@ function create ()
     platforms.create(750, 220, 'ground');
 }
 ```
-Later I add Physics to thos platform. and the player icon and control.
+Later I add Physics to those platform, and the player model/control.
 
 ### Skills
 What I had learn is to organnize my time and tinker more when I'm learning new things. I learn not to push every on the last day as it can cause alot fo stress and tiker more can help you rlearn more that the tutuial didn't tell you.
