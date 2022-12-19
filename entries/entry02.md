@@ -50,7 +50,10 @@ function create ()
     platforms.create(750, 220, 'ground');
 }
 ```
+Later I add Physics to thos platform. and the player icon and control.
 
+### Skills
+What I had learn is to under stand what they are try to tell me and tinker more when I'm learning new things.  
 
 
 
