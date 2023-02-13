@@ -38,7 +38,7 @@ After I complete the tutorial and tinker around for a bit, I start look for othe
 What I had learn is to organnize my time and tinker more when I'm learning new things. Try to explan diffent genre to see/ plan what are you going to make.
 
 ## what I plan on learning next
- Since I was planing to make an Rpg, I looking working on that. For small thing I want to know how to make different movemnts, Ai or NPC, and mabye know how to make sprite sheet. and any extra on the side.
+ Since I was planing to make an Rpg, I looking working on that. For small thing I want to know how to make different movemnts, Ai or NPC, and mabye know how to make sprite sheet and any extra on the side.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
