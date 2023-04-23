@@ -45,7 +45,40 @@ this.load.spritesheet('player','assets/robePlayer.png',{ frameWidth: 32, frameHe
         });
 ```
 ### HeathBar Protype 
-I thought if we are going to make a game we gotha have a heath bar. So I went to grab a Sprite from itch.io again.(https://adwitr.itch.io/pixel-health-bar-asset-pack) The was a slight proublem when I open download the file, I realized that is was a .rar and I don;t know how to open it. So I went on to slack to to ask on the github channel, and thankfuly someone replied and help out. Now that over with I open the var file and selected the heath bar I want to use. When I relized there was no part to the heath bar, and I am not quite how to split the img by using code along, I decide the next best thing is to use an art program call Krita (https://krita.org/en/), I then split them up into diffent part, then imported them back into My ide. 
+I thought if we are going to make a game we gotha have a heath bar. So I went to grab a Sprite from itch.io again.(https://adwitr.itch.io/pixel-health-bar-asset-pack) The was a slight proublem when I open download the file, I realized that is was a .rar and I don;t know how to open it. So I went on to slack to to ask on the github channel, and thankfuly someone replied and help out. Now that over with I open the var file and selected the heath bar I want to use. 
+
+When I realized there was no part to the heath bar, and I am not quite how to split the img by using code along, I decide the next best thing is to use an art program call Krita (https://krita.org/en/), I then split them up into diffent part, then imported them back into My ide. 
+
+shince we dont have a any that will make the player get hit nor did I realized how to connect it to one button I would have a lot of button such as the one below.
+```js
+testheal = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.U);
+
+if (Phaser.Input.Keyboard.JustDown (testheal)){
+        heath = this.add.image(75, 0, 'heathempty');
+    }  
+```
+![alt text](https://lh3.googleusercontent.com/cGVCUWcAxdzsmfG6esMfinmhy0NFlCHrHy9BNsMVef8YOK7GAMsn_-N7LRsV_bUDxb5az-ykEjrWg0ndWSTFJgzhp9DIQ4SOO8kn8Ajh)
+
+![alt text](https://lh3.googleusercontent.com/Hr4w2UQ87FSJ7Yh8x4sq4SWLlManghjRym33AKALhSGyeL1OcEA2sLIDRFcq731pifRVYPEtrH6jp7E4h9QB57O9BQZMfL7m-mCA35wzGg).
+
+### HeathBar 
+I soon relizse how you can connect them together. You would have to create a new varivle to keep trake of how many time the player was hit so it will lokk like this.
+```js
+var playerHit = 0
+
+if (playerHit == 0){
+        heath0hit.visible = true;
+        heath0hit.setScrollFactor(0);
+    }
+    else if (playerHit == 1){
+        heath0hit.visible = false;
+        heath = this.add.image(75, 0, 'heathempty');
+        let heath1hit = this.add.image(75, 12.5, 'heath1hit');
+    }
+```
+We will talk about how to increase the playerHit via contact.
+
+### enemies
 
 ## Challanges 
 
