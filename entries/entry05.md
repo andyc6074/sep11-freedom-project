@@ -76,10 +76,35 @@ if (playerHit == 0){
         let heath1hit = this.add.image(75, 12.5, 'heath1hit');
     }
 ```
-We will talk about how to increase the playerHit via contact.
+We soon will talk about how to increase the playerHit via contact.
+
+### enemies Protype
+In the begining we just put zone that don't have any texture, as enemies so we can test the other function. In order to see the the zones, will will have to turn the debug to true. 
+```js
+debug: true // set to true to view zones
+```
+### Contact 
+we need to create an a function outside ofthe create function.
+```js
+onMeetEnemy: function(player, zone) {
+        // we move the zone to some other location
+        zone.x = Phaser.Math.RND.between(0, this.physics.world.bounds.width);
+        zone.y = Phaser.Math.RND.between(0, this.physics.world.bounds.height);
+        playerHit+=1// this it for the heathmbar varible mention before
+        this.cameras.main.flash(500)
+    },
+```  
 
 ### enemies
+Shince we can't keep using the zones, we will have to use sprites, howevery that came with it own prouble as zone can't have texture, so we will have to inport the sprtie and add them to the scene along with changing all the code so it can work with the sprites instead of the zones.
 
+### Enemies Folowing
+We need to have the enemies follow us. However we didn't quite know how to do that so when went only so search for an answer. The was many however every they did work out so well, so I decide to take small of of each of them and tinker with them in my code till it work out. SO what we got is.
+```js
+enemyFollows: function () {
+        this.physics.moveToObject(this.enemy, this.player, 75);
+    },
+```
 ## Challanges 
 
 ## Takeaway
