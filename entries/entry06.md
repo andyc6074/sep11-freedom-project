@@ -1,5 +1,20 @@
 # Entry 6
-##### X/X/XX
+##### 5/26/23
+
+## Context
+
+## Content
+
+### Takeaways
+
+#### In-class presentation 
+
+#### Expo elevator pitch 
+
+//Sources
+//Your notes (which should have the elevator pitch)
+//Your slides (of your in-class presentation)
+
 
 Text
 
