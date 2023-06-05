@@ -106,6 +106,8 @@ There was one challenge with the contact function when I was trying to make the 
 
 There was some moment where the code did not work on a single Html so I restored it to make a js file along with a .json file I found online.
 
+
+
 ## Takeaway/skills
 *If you help, don't be afraid to ask on Slack.
 

@@ -1,23 +1,22 @@
-# Entry 6
+ # Entry 6
 ##### 5/26/23
 
 ## Context
+After we are done making the year-long project, we can now present it to our class and the rest of the school.
+## Takeaways
+My takeaway is to practice more if you are not sure if you are ready for the presentation. I learn to practice reading the lines over and over again till I feel like I am ready enough.
+### In-class presentation 
+The takeaway I have specifically for the In-class is to communicate with your partner in the making of the slide because it will help out with organizing the actual presentation.
+### Expo elevator pitch 
+As for the Expo, you don't have to explain everything, you just have to get their attraction and make it short and sweet.
+## Links
+#### Link to the Scrpit of the In-class presentation and Expo elevator pitch 
+https://docs.google.com/document/d/1cOSqcaYLr3sEMRuRkYK0KaGN9rTkhWoY8r0M54U37Bg/edit
 
-## Content
-
-### Takeaways
-
-#### In-class presentation 
-
-#### Expo elevator pitch 
-
-//Sources
-//Your notes (which should have the elevator pitch)
-//Your slides (of your in-class presentation)
-
+#### Link to the slides https://docs.google.com/presentation/d/1FIoBn9UhvPo1XRRrWuysVEm_7Twe0nmq6ALUpsamhTc/edit
 
 Text
-
+ 
 [Previous](entry05.md) | [Next](entry07.md)
 
-[Home](../README.md)
+[Home](../README.md) 
