@@ -2,20 +2,17 @@
 by Andy CHen
 
 ## Context
-The "Freedom Project" for SEP11 is all about Javscript. The purpose of this blog is to keep track of the process of making my Freedom project .
-
+The "Freedom Project" for SEP11 is all about Javscript. For my project, I am making Survivel game. The purpose of this project to to test our skill that we have learn so far an incorprate them is to to something we want.
 ## Content
-For my project, I am making Rpg games. This blog will walk through my process of independently studying javascript game engin like impactJS in order to make a RPG gmae.
-
+This blog will walk through my process of independently studying javascript game engin like impactJS in order to make a RPG gmae.The purpose of this blog is to keep track of the process of making my Freedom project.
 ## Links
 
-Product
+Product - https://htmlpreview.github.io/?https://github.com/ulyssess2140/freedom-project/blob/main/main.html
 
-Presentation
+Presentation - https://docs.google.com/presentation/d/1FIoBn9UhvPo1XRRrWuysVEm_7Twe0nmq6ALUpsamhTc/edit
 
 ## Implications
-X
-
+It can be helpful to society by providing entertainment.
 ---
 
 * [Blog Entry 1](entries/entry01.md)
