@@ -3,6 +3,8 @@
 
 ## Context
 After we are done making the year-long project, we can now present it to our class, As well as to the rest of the school in the form of a elevator pitch. 
+## Process
+I took a template from an online site called "https://slidesgo.com/theme/retro-video-games-newsletter#search-game&position-8&results-288&rs=search". Then I separated the template, and created the slide page I needed for the presentation. I soon finsh the base design and project info/ I then called my partner to help think of a hook and fix anything we need for the slide. I soon later made a hook, and Chin and Uylsse both filled in their part of challenges and takeaways. Me and Chin then worked together to create the Gif and later I just finished the remaining detail and info.
 ## Takeaways
 My takeaway is to practice more if you are not sure if you are ready for the presentation. I learn to practice reading the lines over and over again till I feel like I am ready enough.
 ### In-class presentation 
