@@ -12,7 +12,9 @@ Product - https://htmlpreview.github.io/?https://github.com/ulyssess2140/freedom
 Presentation - https://docs.google.com/presentation/d/1FIoBn9UhvPo1XRRrWuysVEm_7Twe0nmq6ALUpsamhTc/edit
 
 ## Implications
+
 It can be helpful to society by providing entertainment.
+
 ---
 
 * [Blog Entry 1](entries/entry01.md)
